@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aikuiwaeli.qef.co.nz/sitemap.xml
